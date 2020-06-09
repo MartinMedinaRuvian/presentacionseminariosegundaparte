@@ -1,0 +1,14 @@
+.color-verde{
+  color: #3DB33E;
+}
+
+.titulo-antecedente{
+  text-transform: lowercase;
+}
+
+@media (min-width: 1200px){
+  .alto{
+    margin-top: 90px;
+  }
+}
+
